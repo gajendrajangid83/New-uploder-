@@ -7,16 +7,16 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/hackercoder24/updatetxt2vid",
-    "success_url": "https://telegram.me/diljalechatsherebot",
+    "repository": "https://github.com/gajendrajangid83/New-uploder-",
+    "success_url": "https://t.me/bosch12345o",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "26416404",
+            "description": "21157244",
             "required": true
         },
         "API_HASH": {
-            "description": "655b8dc1517dacb007deb53fc0fda30d",
+            "description": "7633623049:AAHGTUUXAqwoRrhh0y04vbz56TrlOdKm2GA",
             "required": true
         },
         "BOT_TOKEN": {
@@ -27,7 +27,7 @@
     "addons": [],
     "buildpacks": [
         {
-            "url": "https://github.com/amivin/aria2-heroku.git"
+            "url": "https://github.com/gajendrajangid83/New-uploder-heroku.git"
         },
         {
             "url": "heroku/python"
